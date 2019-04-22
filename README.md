@@ -2,9 +2,6 @@
 
 A todo app built with React + Redux.
 
-[![Build Status](https://travis-ci.org/arthur-melo/just-another-todo-app.svg?branch=master)](https://travis-ci.org/arthur-melo/just-another-todo-app)  [![codecov](https://codecov.io/gh/arthur-melo/just-another-todo-app/branch/master/graph/badge.svg)](https://codecov.io/gh/arthur-melo/just-another-todo-app) [![renovate-app badge](https://img.shields.io/badge/renovate-app-blue.svg)](https://renovatebot.com/)
-
-## Demo
 
 You can access the final project at: [just-another-todo-app.now.sh](https://just-another-todo-app.now.sh/) 👈
 
